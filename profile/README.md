@@ -17,33 +17,3 @@ We provide every tool necessary to grow your business, offering innovative and a
 * **Digital Marketing:** Implementing advanced digital solutions to increase visibility and conversions.
 * **Public Relations (PR):** Building and maintaining a positive public image.
 * **Consultation & Expertise:** Offering world-class guidance and practical knowledge.
-
----
-
-## 💡 Why Choose ROI Agency?
-
-| Metric | Value |
-| :--- | :--- |
-| Years of Experience | **+5** |
-| Executed Projects | **+300** |
-| Number of Clients | **+500** |
-
-Our success stories are built alongside our clients, transforming challenges into milestones and ensuring every partnership yields a significant return.
-
----
-
-
-
-
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
