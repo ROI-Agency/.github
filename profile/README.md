@@ -1,4 +1,3 @@
-## Hi there 👋
 # ROI Agency
 
 **Driving your success, STEP by STEP!**
